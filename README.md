@@ -103,3 +103,6 @@ Poorly written content is a known hallmark of phishing campaigns.
 
 Conclusion:
 This email exhibits multiple strong indicators of phishing. It should be considered malicious. Do not click links or open attachments. Report the email to the relevant security team or email provider.
+
+
+![image alt](https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/1cbbb6ec85b60b44b2b2d52dbc36c70214ee3ddb/1.png)
