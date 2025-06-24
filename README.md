@@ -104,6 +104,10 @@ Poorly written content is a known hallmark of phishing campaigns.
 Conclusion:
 This email exhibits multiple strong indicators of phishing. It should be considered malicious. Do not click links or open attachments. Report the email to the relevant security team or email provider.
 
+**Screenshot of Phishing Emails:**
 
 ![image alt](https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/1cbbb6ec85b60b44b2b2d52dbc36c70214ee3ddb/1.png)
-https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/ad6faf4bf847a6cd1c67ece4b4543dcc31ae60d7/2.png
+![image alt](https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/ad6faf4bf847a6cd1c67ece4b4543dcc31ae60d7/2.png)
+![image alt](https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/8672839f52a9c26d9c96188169941ed872d2b8db/3.png)
+![image alt](https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/8672839f52a9c26d9c96188169941ed872d2b8db/4.png)
+![image alt](https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/8672839f52a9c26d9c96188169941ed872d2b8db/5.png)
