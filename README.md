@@ -106,3 +106,4 @@ This email exhibits multiple strong indicators of phishing. It should be conside
 
 
 ![image alt](https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/1cbbb6ec85b60b44b2b2d52dbc36c70214ee3ddb/1.png)
+https://github.com/Amanranjan455/Analyze-a-Phishing-Email/blob/ad6faf4bf847a6cd1c67ece4b4543dcc31ae60d7/2.png
